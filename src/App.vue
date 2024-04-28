@@ -8,6 +8,6 @@ import { RouterLink, RouterView } from 'vue-router'
 
 <style>
 #app {
-  margin-top: 60px
+  margin-top: 5px
 }
 </style>
